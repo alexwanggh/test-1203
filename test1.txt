@@ -1,3 +1,5 @@
 import cv2
 
-img=cv2.imread("hi.jpg")
+img=cv2.imread("good.jpg")
+
+cv2.inshow(img)
